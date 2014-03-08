@@ -30,6 +30,7 @@ https://plus.google.com/110954683162859211810/posts/ZSc9Dtu7Vpz
 - complete line in evil-mode is actually very useful
 - search and replace in evil-mode is even better than the orginal vim one
 - I use evil-nerd-commenter to comment/uncomment code
+- the default mouse keybinding of evil-mode confilcts with ecb, you may resolve this by commenting the "Mouse" section in evil-maps.el
 ** code navigation
 - for navigation in current file, I use imenu
 - for navigation between files, you can use cscope or gtags
